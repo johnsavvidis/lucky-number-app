@@ -42,4 +42,4 @@ Mobile S-M-L design
 ### Links
 
 - Solution URL: [https://github.com/johnsavvidis/lucky-number-app]
-- Live Site URL: [https://johnsavvidis.github.io/lucky-number-app/]
+- Live Site URL: [https://frh6rr.csb.app/]
