@@ -41,5 +41,5 @@ Mobile S-M-L design
 
 ### Links
 
-- Solution URL: [https://github.com/johnsavvidis/Solo-project-for-Voyage]
-- Live Site URL: [https://johnsavvidis.github.io/Solo-project-for-Voyage/]
+- Solution URL: [https://github.com/johnsavvidis/lucky-number-app]
+- Live Site URL: [https://johnsavvidis.github.io/lucky-number-app/]
